@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anmolratn
-- 👀 I’m interested in html coding
-- 🌱 I’m currently learning html
+- 👀 I’m interested in web coding
+- 🌱 I’m currently learning html and js
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me 
 
